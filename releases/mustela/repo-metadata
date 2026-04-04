@@ -1,0 +1,10 @@
+# this is an example of metadata of napt repos:
+[napt repository]
+release=mustela 
+packages:
+ryzenadj=ryzenadj_0.17.0_amd64.deb
+tocafetch=tocafetch_3.1-1_amd64.deb
+xpadneo=xpadneo-dkms-0.9.8_amd64.deb
+nf-tree=nf-tree-2.1_amd64.deb
+napt=napt-2.1-amd64.deb
+nf-subsystem=nf-subsystem-2.1-amd64.deb
