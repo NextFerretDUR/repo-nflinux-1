@@ -17,7 +17,18 @@
   .deb::before { content: "📦 "; margin-right: 5px; }
   #path { margin-bottom: 10px; font-weight: bold; display: none; }
   .size { margin-left: 20px; color: #666; font-size: 0.9em; }
-  footer { margin-top: 40px; padding-top: 10px; border-top: 1px solid #ddd; font-size: 0.8em; color: #777; }
+  
+  footer { 
+    margin-top: 40px; 
+    padding: 15px; 
+    border: 1px solid #ccc; 
+    background: #eee;
+    border-radius: 4px;
+    font-size: 0.9em; 
+    color: #444; 
+    text-align: center;
+    font-weight: bold;
+  }
 </style>
 </head>
 <body>
@@ -31,7 +42,7 @@
 <ul id="fileList"></ul>
 
 <footer>
-  Running on GitHub Pages | Image: ubuntu-latest
+  <span>●</span> Running on GitHub Pages | Image: ubuntu-latest
 </footer>
 
 <script>
