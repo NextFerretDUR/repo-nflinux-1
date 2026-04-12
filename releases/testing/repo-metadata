@@ -1,0 +1,9 @@
+[napt repository]
+release=testing
+packages:
+ryzenadj=ryzenadj_0.17.0_amd64.deb 
+tocafetch=tocafetch_3.1-1_amd64.deb 
+xpadneo=xpadneo-dkms-0.9.8_amd64.deb 
+nf-tree=nf-tree-2.2_amd64.deb
+napt=napt-1-amd64.deb 
+nf-subsystem=nf-subsystem-2.1-amd64.deb 
