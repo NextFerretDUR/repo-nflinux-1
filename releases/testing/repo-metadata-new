@@ -5,5 +5,5 @@ ryzenadj=ryzenadj_0.17.0_amd64.deb sha256=139db7cda698c2169ff34d14d813a2ec084768
 tocafetch=tocafetch_3.1-1_amd64.deb sha256=8c04f8c7f7fe2502b6779beead52634c35f72097dc596cec3d77acf6289b0b2f 
 xpadneo=xpadneo-dkms-0.9.8_amd64.deb sha256=5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
 nf-tree=nf-tree-2.2_amd64.deb sha256=0956a6c026f4702e9701f9b6d852e5944518c69bfef773555a55b14d3f4b1b30
-napt=napt-2-amd64.deb sha256=
-nf-subsystem=nf-subsystem-2.1-amd64.deb sha256=
+napt=napt-2-amd64.deb sha256=da1add02624cc90b3620dc008d16ea3acb6472f5d8b8dd322d7109c87a8cb1b6
+nf-subsystem=nf-subsystem-2.1-amd64.deb sha256=8a99c6309447b2b9b822a8d08270db4f0220f488ee77de8cae76dd49c1fbe964
