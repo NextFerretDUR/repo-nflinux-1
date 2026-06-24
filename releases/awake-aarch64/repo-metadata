@@ -1,0 +1,10 @@
+[napt repository]
+release=awake-aarch64
+packages:
+nsm=nsm_4_arm64.deb sha256=
+napt=napt-4-arm64.deb sha256=
+nlc=nlc_2.2_arm64.deb sha256=
+required:
+{nsm};
+{napt};
+{nlc}
