@@ -6,7 +6,7 @@ tocafetch=tocafetch_3.1-1_amd64.deb sha256=8c04f8c7f7fe2502b6779beead52634c35f72
 xpadneo=xpadneo-dkms-0.9.8_amd64.deb sha256=5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
 nsm=nsm_5.1_amd64.deb sha256=bbe15abe6a48cabbe3c3c69c7a2bfb2374dc64aa84fdcc06ea301076d1ecf2a0
 napt=napt_5_amd64.deb sha256=0bc4bc6f4e17abeefa870c5465de34a45c6a9ce8c11e7aa4f1386e9669742332
-nlc=nlc_5_amd64.deb sha256=5bdd22b584507b61f125f9c3ce8f30432fa74793e5e5926706407fd51567924f
+nlc=nlc_5_amd64.deb sha256=9532d41b305f344f9db5b2ff13ec11daa68852ba1ea86a5b24759734d14595cf 
 required:
 {nsm};
 {napt};
