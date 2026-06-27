@@ -3,7 +3,7 @@ release=awake-aarch64
 packages:
 nsm=nsm_5.1_arm64.deb sha256=bbe15abe6a48cabbe3c3c69c7a2bfb2374dc64aa84fdcc06ea301076d1ecf2a0 
 napt=napt_5.0_arm64.deb sha256=d9c3da9f6c4484f72ab40afc08a8942ba548bccc2a8de96df2ef71ba1c01cdf2
-nlc=nlc_2.2_arm64.deb sha256=481ab5ff361670320a4b42f208f98dbfa6eccdabea8760fd43564b2a1d0bab11
+nlc=nlc_5_arm64.deb sha256=76f186e265f8ec4257423b705f12aaa402b16a81dc70366fca30f51bae865b6a
 required:
 {nsm};
 {napt};
