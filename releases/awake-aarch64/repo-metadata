@@ -1,7 +1,7 @@
 [napt repository]
 release=awake-aarch64
 packages:
-nsm=nsm_4_arm64.deb sha256=35e40d2557cc78b5fdedf35c07b624bf64fc1a22c5380637749ed5ef489f1cb5
+nsm=nsm_5.1_arm64.deb sha256=bbe15abe6a48cabbe3c3c69c7a2bfb2374dc64aa84fdcc06ea301076d1ecf2a0 
 napt=napt_5.0_arm64.deb sha256=d9c3da9f6c4484f72ab40afc08a8942ba548bccc2a8de96df2ef71ba1c01cdf2
 nlc=nlc_2.2_arm64.deb sha256=481ab5ff361670320a4b42f208f98dbfa6eccdabea8760fd43564b2a1d0bab11
 required:
