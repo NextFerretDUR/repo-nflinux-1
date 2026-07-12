@@ -8,6 +8,7 @@ nsm=nsm_5.2_amd64.deb sha256=1aea7a755a71d97a811272d438f98f71e67e1e9c74a207e7b66
 napt=napt_5_amd64.deb sha256=0bc4bc6f4e17abeefa870c5465de34a45c6a9ce8c11e7aa4f1386e9669742332
 nlc=nlc_5_amd64.deb sha256=9532d41b305f344f9db5b2ff13ec11daa68852ba1ea86a5b24759734d14595cf
 lvmabd=lvmabd-start_1_amd64.deb sha256=b132ece505f98c7342df686aeddee3ede3af403c74ab973f7ca85a23f121c80f
+issue-files=issue-files_5.1_all.deb sha256=3a1e4aab795e02a6aae6b574d757e2c6a64b5b88e24db60c3070faaf3b2f7204
 required:
 {nsm};
 {napt};
