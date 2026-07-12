@@ -7,7 +7,7 @@ xpadneo=xpadneo-dkms-0.9.8_amd64.deb sha256=5aeee4d775ec81783b17784772f4567da2d3
 nsm=nsm_5.2_amd64.deb sha256=1aea7a755a71d97a811272d438f98f71e67e1e9c74a207e7b667c48b6149be8d
 napt=napt_5.1_amd64.deb sha256=d328c948a10b96415537b5e1fdf79884f05c73a6d4aa4fd6fde61a6173c9e5a1
 nlc=nlc_5.1_amd64.deb sha256=272ec3d073470627dbf9716126eb5ba39bd0c3234a100fb4f62949bbfb1975dc 
-lvmabd=lvmabd-start_1_amd64.deb sha256=b132ece505f98c7342df686aeddee3ede3af403c74ab973f7ca85a23f121c80f
+lvmabd=lvmabd-start_1.1_amd64.deb sha256=b3b9210ea5af2ca69991d99cf6aed70beb5a0f5dd65961e19b6d933817d40004
 issue-files=issue-files_5.1_all.deb sha256=3a1e4aab795e02a6aae6b574d757e2c6a64b5b88e24db60c3070faaf3b2f7204
 required:
 {nsm};
