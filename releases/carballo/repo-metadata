@@ -1,0 +1,13 @@
+[napt repository]
+release=branches
+packages:
+ryzenadj=ryzenadj_0.17.0_amd64.deb sha256=139db7cda698c2169ff34d14d813a2ec084768dad173841c5676cec1b2a26878
+tocafetch=tocafetch_3.1-1_amd64.deb sha256=8c04f8c7f7fe2502b6779beead52634c35f72097dc596cec3d77acf6289b0b2f
+xpadneo=xpadneo-dkms-0.9.8_amd64.deb sha256=5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
+nsm=nsm_7_amd64.deb sha256=2b86a790d11cf9b629e298874051349a29787ee57401584ba7b15c80bfcd873b
+napt=napt_7_amd64.deb sha256=38223e0d4e2f9a0781371818724b8c2d6f9d432eb2399dfeb691e19082da7dd0
+nlc=nlc_7_amd64.deb sha256=cb803b429c24b16b947e1cc8fde9a0bd0db40fb3654677573ec313a3349a7f08
+required:
+{nsm};
+{napt};
+{nlc}
