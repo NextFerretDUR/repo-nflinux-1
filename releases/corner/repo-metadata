@@ -11,5 +11,5 @@ issue-files=issue-files_8_amd64.deb sha256=01dbc564d513fe7c3a2f96fbcb0641b1814bf
 required:
 {nsm};
 {napt};
-{nlc};
+{lxsm};
 {issue-files}
